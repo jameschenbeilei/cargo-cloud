@@ -23,7 +23,9 @@
 - 信用评价与投诉处理  
 - 多维度数据统计与日志分析  
 - 支持交通运输部、税务等数据调取  
-- 可视化大屏展示  
+- 可视化大屏展示
+  <img width="863" height="423" alt="image" src="https://github.com/user-attachments/assets/a769d3ae-554e-43d6-aa3f-0508aa6fcd3c" />
+
 
 ---
 
@@ -113,12 +115,17 @@
 ---
 
 ## 五、业务流程
-1. 网络货运主业务流程  
-2. 抢单流程 / 竞价流程  
-3. 指派流程  
-4. 财务审核流程  
+1. 网络货运主业务流程
+   <img width="464" height="1245" alt="image" src="https://github.com/user-attachments/assets/7f6533a4-4b11-45d6-ac65-51ef3259a985" />
 
-（可附上流程图占位）
+2. 抢单流程 / 竞价流程
+   <img width="865" height="787" alt="image" src="https://github.com/user-attachments/assets/ad2aec45-0f15-48b6-9115-ed239a08be35" />
+
+3. 指派流程
+   <img width="563" height="764" alt="image" src="https://github.com/user-attachments/assets/cbf518b4-0852-44d1-92a7-93a83aa2dadb" />
+ 
+4. 财务审核流程
+   <img width="567" height="1181" alt="image" src="https://github.com/user-attachments/assets/b1d521b5-7ce5-4f1c-897a-748595ee041c" />
 
 ---
 
@@ -126,7 +133,7 @@
 我们为您准备了详尽的技术文档，包括：  
 - 环境搭建  
 - 数据库初始化  
-- 服务启动  
+- 服务启动
 
 ---
 
