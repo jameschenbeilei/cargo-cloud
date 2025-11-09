@@ -145,7 +145,7 @@
 
 #### 7.3 指派流程
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" alt="指派流程" width="40%" height="40%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" alt="指派流程" width="50%" height="50%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 </p>
 
 #### 7.4 财务审核流程
