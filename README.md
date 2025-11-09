@@ -298,7 +298,7 @@ npm run build
 📞 电话：185-3099-1699  
 💬 微信：
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6" alt="微信二维码" width="200" height="400" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6" alt="微信二维码" width="400" height="600" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 </p>
 
 
