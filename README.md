@@ -129,18 +129,29 @@
 
 ---
 ### 7. 业务流程
-#### 7.1网络货运主业务流程
-<img width="2176" height="6412" alt="image-6" src="https://github.com/user-attachments/assets/70422d71-a634-404a-b767-af3bbd6a6d44" />
+#### 7.1 网络货运主业务流程
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/70422d71-a634-404a-b767-af3bbd6a6d44" alt="网络货运主业务流程" width="70%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
 
-#### 7.2抢单流程 / 竞价流程 
-<img width="2488" height="3964" alt="image-7" src="https://github.com/user-attachments/assets/85d0ab6e-ff54-4746-87a6-dda34adfc433" />
-<img width="3720" height="5004" alt="微信图片_20251108215124_212_138-1" src="https://github.com/user-attachments/assets/7c7c57a7-ba88-48a5-844c-3ed64da15002" />
+#### 7.2 抢单流程 / 竞价流程
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85d0ab6e-ff54-4746-87a6-dda34adfc433" alt="抢单流程" width="70%" style="margin-bottom: 20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
 
-#### 7.3指派流程
-<img width="2492" height="2536" alt="微信图片_20251108220339_213_138-1" src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c7c57a7-ba88-48a5-844c-3ed64da15002" alt="竞价流程" width="70%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
 
-#### 7.4财务审核流程
-<img width="1364" height="2604" alt="3b09cbf0d5b0a685a8105b9656a029a9" src="https://github.com/user-attachments/assets/8efb74c1-1c7e-4e70-b838-eed3f48a2950" />
+#### 7.3 指派流程
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" alt="指派流程" width="60%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
+
+#### 7.4 财务审核流程
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8efb74c1-1c7e-4e70-b838-eed3f48a2950" alt="财务审核流程" width="60%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
   
 ---
 ### 8. 部署说明
@@ -287,7 +298,7 @@ npm run build
 📞 电话：185-3099-1699  
 💬 微信：
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6" alt="微信二维码" width="200" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6" alt="微信二维码" width="200" height="200" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 </p>
 
 
