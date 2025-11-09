@@ -131,7 +131,7 @@
 ### 7. 业务流程
 #### 7.1 网络货运主业务流程
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70422d71-a634-404a-b767-af3bbd6a6d44" alt="网络货运主业务流程" width="70%" height="70%" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+  <img src="https://github.com/user-attachments/assets/70422d71-a634-404a-b767-af3bbd6a6d44" alt="网络货运主业务流程" width="800" height="400" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 </p>
 
 #### 7.2 抢单流程 / 竞价流程
