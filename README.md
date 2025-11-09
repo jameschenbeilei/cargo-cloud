@@ -138,6 +138,7 @@
 
 #### 7.3指派流程
 <img width="2492" height="2536" alt="微信图片_20251108220339_213_138-1" src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" />
+
 #### 7.4财务审核流程
 <img width="1364" height="2604" alt="3b09cbf0d5b0a685a8105b9656a029a9" src="https://github.com/user-attachments/assets/8efb74c1-1c7e-4e70-b838-eed3f48a2950" />
   
@@ -284,6 +285,9 @@ npm run build
 
 **联系方式**  
 📞 电话：185-3099-1699  
-💬 微信：  ![422dcf893e5d3f1e9d6ca10424db87b0](https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6)
+💬 微信：
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6" alt="微信二维码" width="200" style="border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+</p>
 
 
