@@ -27,7 +27,7 @@
 -   **信用评价与投诉处理**: 建立多维度信用体系，对货主、司机、承运商等进行综合评分；提供投诉举报渠道，保障交易公平与服务质量。
 -   **多维度数据统计与日志分析**: 内置数据分析引擎，支持业务、运营、财务、用户行为等多维度统计与可视化展示，辅助管理决策。
 -   **支持交通运输部、税务等数据调取**：对接交通运输部、税务等监管接口，支持电子运单、发票、从业人员、车辆资质等数据联动与合规上报。
-![Alt text](image.png)
+<img width="863" height="423" alt="image" src="https://github.com/user-attachments/assets/2d97caf7-dc8b-4cb2-b953-40aa522204b1" />
 <p align="center">  
    可视化大屏
 </p>
@@ -43,7 +43,7 @@
     -   账号: `手机号`
     -   密码: `验证码登录`
 -   **移动端 (H5/小程序/APP)**:
-    ![移动端体验二维码]()
+ 
 
 ---
 ### 4. 为什么选择蓓蕾
@@ -130,15 +130,17 @@
 ---
 ### 7. 业务流程
 #### 7.1网络货运主业务流程
-![Alt text](image-6.png)
+<img width="2176" height="6412" alt="image-6" src="https://github.com/user-attachments/assets/70422d71-a634-404a-b767-af3bbd6a6d44" />
+
 #### 7.2抢单流程 / 竞价流程 
-![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251108213332_211_138-1.png)
-![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251108215124_212_138-1.png)
+<img width="2488" height="3964" alt="image-7" src="https://github.com/user-attachments/assets/85d0ab6e-ff54-4746-87a6-dda34adfc433" />
+<img width="3720" height="5004" alt="微信图片_20251108215124_212_138-1" src="https://github.com/user-attachments/assets/7c7c57a7-ba88-48a5-844c-3ed64da15002" />
+
 #### 7.3指派流程
-![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251108220339_213_138-1.png)   
+<img width="2492" height="2536" alt="微信图片_20251108220339_213_138-1" src="https://github.com/user-attachments/assets/26df03d2-41fe-4c3d-8e84-4f6ba455bbce" />
 #### 7.4财务审核流程
-![Alt text](3b09cbf0d5b0a685a8105b9656a029a9.png)  
-   
+<img width="1364" height="2604" alt="3b09cbf0d5b0a685a8105b9656a029a9" src="https://github.com/user-attachments/assets/8efb74c1-1c7e-4e70-b838-eed3f48a2950" />
+  
 ---
 ### 8. 部署说明
 
@@ -179,7 +181,7 @@ cd beilei-server
 ##### 8.3.2 修改配置文件
 
 打开 src/main/resources/application.yml，配置数据库与 Redis 信息：
-
+```bash
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/beilei?useSSL=false&serverTimezone=Asia/Shanghai
@@ -188,11 +190,12 @@ spring:
   redis:
     host: localhost
     port: 6379
-
+```
 ##### 8.3.3 打包并启动服务
+```bash
 mvn clean package -DskipTests
 java -jar target/beilei.jar
-
+```
 ##### 8.3.4 验证启动成功
 
 访问接口：
@@ -202,27 +205,32 @@ http://localhost:8080
 #### 8.4前端部署
 
 #### 8.4.1进入前端项目目录
+```bash
 cd beilei-ui
-
+```
 #### 8.4.2安装依赖
+```bash
 npm install
-
+```
 #### 8.4.3配置后端接口地址
 
 修改 .env.development 或 .env.production 文件中的后端 API 地址：
-
+```bash
 VITE_GLOB_API_URL=http://localhost:8080
-
+npm install
+```
 #### 8.4.4本地启动项目
+```bash
 npm run dev
-
+```
 默认访问地址：
 
 http://localhost:3100
 
 #### 8.4.5构建生产环境
+```bash
 npm run build
-
+```
 打包后的静态文件位于 dist/ 目录，可通过 Nginx、Tomcat 或其他 Web 服务部署。
 
 ---
@@ -276,5 +284,6 @@ npm run build
 
 **联系方式**  
 📞 电话：185-3099-1699  
-💬 微信：  
-![微信二维码](422dcf893e5d3f1e9d6ca10424db87b0.jpg)
+💬 微信：  ![422dcf893e5d3f1e9d6ca10424db87b0](https://github.com/user-attachments/assets/c087642a-3065-416f-8044-02f182a281b6)
+
+
